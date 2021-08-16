@@ -16,7 +16,7 @@
 
 ### misas
 
-<img src="logos/misas.svg" style="height: 100px; float: right"/>
+<img src="logos/misas.svg" height="100px" style="float: right"/>
 
 - **Title**: *Model Interpretation through Sensitivity Analysis for Segmentation*
 - **Repo**: https://github.com/chfc-cmi/misas
@@ -24,7 +24,7 @@
 
 ### TBro
 
-<img src="logos/tbro.svg" style="height: 100px; float: right"/>
+<img src="logos/tbro.svg" height="100px" style="float: right"/>
 
 - **Title**: *Transcriptome Browser*
 - **Idea**: visualization and management of de novo transcriptomes
@@ -33,7 +33,7 @@
 
 ### FENNEC
 
-<img src="logos/fennec.svg" style="height: 100px; float: right"/>
+<img src="logos/fennec.svg" height="100px" style="float: right"/>
 
 ### AliTV
 
