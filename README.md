@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Projects and Activities
+[<img src="logos/hackyhour.svg" height="60em"/>](https://hackyhour.github.io/Wuerzburg)
+[<img src="logos/dccw.png" height="60em"/>](https://dccw.de)
+[<img src="logos/datadojo.svg" height="60em"/>](https://ddojo.github.io/)
+[<img src="logos/misas.svg" height="60em"/>](https://chfc-cmi.github.io/misas/)
