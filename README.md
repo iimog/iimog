@@ -27,5 +27,12 @@ Here are some ideas to get you started:
 ### Projects and Activities
 [<img src="logos/hackyhour.svg" height="60em"/>](https://hackyhour.github.io/Wuerzburg)
 [<img src="logos/dccw.png" height="60em"/>](https://dccw.de)
+[<img src="logos/wuerse.svg" height="40em"/>](https://software-carpentry.org)
 [<img src="logos/datadojo.svg" height="60em"/>](https://ddojo.github.io/)
+[<img src="logos/zdex.png" height="50em"/>](https://www.uni-wuerzburg.de/sft/esf-zdex)
 [<img src="logos/misas.svg" height="60em"/>](https://chfc-cmi.github.io/misas/)
+[<img src="logos/tbro.svg" height="60em"/>](https://github.com/TBroTeam/TBro)
+[<img src="logos/fennec.svg" height="60em"/>](https://github.com/molbiodiv/fennec)
+[<img src="logos/alitv.png" height="60em"/>](https://github.com/AliTVTeam/AliTV)
+[<img src="logos/bcdatabaser.svg" height="50em"/>](https://github.com/molbiodiv/bcdatabaser)
+[<img src="logos/swc.svg" height="40em"/>](https://software-carpentry.org)

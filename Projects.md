@@ -71,21 +71,23 @@
 - **Docs**: https://fennec.readthedocs.io/
 - **Paper**: [![MEE](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.13060-blue.svg)](https://doi.org/10.1111/2041-210X.13060)
 
-### AliTV
+### AliTV - *Alignment Toolbox and Visualization*
+
+[<img src="logos/alitv.png" height="100px"/>](https://github.com/AliTVTeam/AliTV)
+
+### bcgTree
 
 ### biojs-io-biom
 
 ### ITS2 database
 
-### bcdatabaser
+### bcdatabaser - *Barcode Database Builder*
 
-[<img src="logos/bcdatabaser.svg" height="100px"/>](https://github.com/molbiodiv/bcdatabaser)
+[<img src="logos/bcdatabaser.svg" height="80px"/>](https://github.com/molbiodiv/bcdatabaser)
 
 - **Online**: https://bcdatabaser.molecular.eco
 - **Repo**: https://github.com/molbiodiv/bcdatabaser
 - **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fbioinformatics%2Fbtz960-blue.svg)](https://doi.org/10.1093/bioinformatics/btz960)
-
-### bcgTree
 
 ### chloroExtractor
 
