@@ -47,9 +47,10 @@
 
 ### misas - *Model Interpretation through Sensitivity Analysis for Segmentation*
 
-<img src="logos/misas.svg" height="100px"/>
+[<img src="logos/misas.svg" height="100px"/>](https://chfc-cmi.github.io/misas/)
 
 - **Repo**: https://github.com/chfc-cmi/misas
+- **Docs**: https://chfc-cmi.github.io/misas/`
 - **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1186/s12880--021--00551--1-blue.svg)](https://doi.org/10.1186/s12880-021-00551-1)
 
 ### TBro - *Transcriptome Browser*
@@ -63,7 +64,12 @@
 
 ### FENNEC - *Functional Exploration of Natural Networks and Ecological Communities*
 
-<img src="logos/fennec.svg" height="100px"/>
+[<img src="logos/fennec.svg" height="100px"/>](https://github.com/molbiodiv/fennec)
+
+- **Online**: https://fennec.molecular.eco
+- **Repo**: https://github.com/molbiodiv/fennec
+- **Docs**: https://fennec.readthedocs.io/
+- **Paper**: [![MEE](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.13060-blue.svg)](https://doi.org/10.1111/2041-210X.13060)
 
 ### AliTV
 
@@ -73,6 +79,10 @@
 
 ### bcdatabaser
 
+[<img src="logos/bcdatabaser.svg" height="100px"/>](https://github.com/molbiodiv/bcdatabaser)
+
+- **Online**: https://bcdatabaser.molecular.eco
+- **Repo**: https://github.com/molbiodiv/bcdatabaser
 - **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fbioinformatics%2Fbtz960-blue.svg)](https://doi.org/10.1093/bioinformatics/btz960)
 
 ### bcgTree
