@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 [<img src="logos/biojs-io-biom.png" height="60em"/>](https://github.com/molbiodiv/biojs-io-biom)
 [<img src="logos/its2.png" height="40em"/>](http://its2.bioapps.biozentrum.uni-wuerzburg.de/)
 [<img src="logos/cmr-seg-tl.png" height="60em"/>](https://github.com/chfc-cmi/cmr-seg-tl)
+[<img src="logos/pollen.jpg" height="60em"/>](https://github.com/molbiodiv/meta-barcoding-dual-indexing)
+[<img src="logos/dionaea.png" height="60em"/>](https://tbro.carnivorom.com)
 [<img src="logos/opentraits.jpg" height="60em"/>](https://doi.org/10.1038/s41559-020-1109-6)
 [<img src="logos/xgm.png" height="60em"/>](https://github.com/iimog/x-game-master)
 [<img src="logos/x.png" height="60em"/>](https://github.com/iimog/x-party-game)
