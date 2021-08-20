@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 [<img src="logos/opentraits.jpg" height="60em"/>](https://doi.org/10.1038/s41559-020-1109-6)
 [<img src="logos/xgm.png" height="60em"/>](https://github.com/iimog/x-game-master)
 [<img src="logos/x.png" height="60em"/>](https://github.com/iimog/x-party-game)
-[<img src="logos/gggenomes.svg" height="60em"/>](https://github.com/thackl/gggenomehttps://thackl.github.io/gggenomes)
+[<img src="logos/gggenomes.svg" height="60em"/>](https://thackl.github.io/gggenomes)
 [<img src="logos/nixos.png" height="60em"/>](https://github.com/NixOS/nixpkgs)

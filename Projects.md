@@ -181,7 +181,7 @@
 
 ### gggenomes - *A ggplot2 Extension for Plotting Genomic Information*
 
-[<img src="logos/gggenomes.svg" height="100px"/>](https://github.com/thackl/gggenomehttps://thackl.github.io/gggenomes)
+[<img src="logos/gggenomes.svg" height="100px"/>](https://thackl.github.io/gggenomes)
 
 - **Repo**: https://github.com/thackl/gggenomes
 - **Docs**: https://thackl.github.io/gggenomes/
