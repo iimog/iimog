@@ -116,6 +116,13 @@
 
 ## Highlight Papers
 
+### Novel integrative elements and genomic plasticity in ocean ecosystems
+
+[<img src="logos/pro-tycheposons.png" height="100px"/>](https://github.com/thackl/pro-tycheposons)
+
+- **Repo**: https://github.com/thackl/pro-tycheposons
+- **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cell.2022.12.006-blue.svg)](https://doi.org/10.1016/j.cell.2022.12.006)
+
 ### Deep learning-based cardiac cine segmentation: Transfer learning application to 7T ultrahigh-field MRI
 
 [<img src="logos/cmr-seg-tl.png" height="100px"/>](https://github.com/chfc-cmi/cmr-seg-tl)
