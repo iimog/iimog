@@ -153,12 +153,13 @@
 - **Genome Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cub.2020.04.051-blue.svg)](https://doi.org/10.1016/j.cub.2020.04.051) - *Genomes of the Venus flytrap and close relatives unveil the roots of plant carnivory*
 
 
-### Open Science principles for accelerating trait-based science across the Tree of Life
+### Open Traits Network
 
 [<img src="logos/opentraits.jpg" height="100px"/>](https://doi.org/10.1038/s41559-020-1109-6)
 
 - **OpenTraits Network**: https://opentraits.org/
-- **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1038/s41559--020--1109--6-blue.svg)](https://doi.org/10.1038/s41559-020-1109-6)
+- **Network Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1038/s41559--020--1109--6-blue.svg)](https://doi.org/10.1038/s41559-020-1109-6) - *Open  Science principles for accelerating trait-based science across the Tree of Life*
+- **Ten Rules Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1111/2041--210X.14033-blue.svg)](https://doi.org/10.1111/2041-210X.14033) - *Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences*
 
 ## Fun and Hobby Projects
 
