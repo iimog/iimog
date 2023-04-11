@@ -6,7 +6,7 @@ My research interests are the development and application of algorithms, tools a
 
 - 💻 Projects and Activities: [Overview](https://github.com/iimog/iimog/blob/main/Projects.md)
 - 🧑‍🔬 Scientific Papers: [Google Scholar](https://scholar.google.de/citations?user=Qroex8UAAAAJ)
-- 🕵️ Reviews: [Publons](https://publons.com/researcher/421873/markus-j-ankenbrand/)
+- 🕵️ Reviews: [Web of Science (formerly Publons)](https://www.webofscience.com/wos/author/record/656742)
 - 🍕 Meetups: [HackyHour Würzburg](https://hackyhour.github.io/Wuerzburg/), [Data Dojo](https://ddojo.github.io/)
 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [<img src="logos/bcdatabaser.svg" height="40em"/>](https://github.com/molbiodiv/bcdatabaser)
 [<img src="logos/swc.svg" height="35em"/>](https://software-carpentry.org)
 [<img src="logos/bcgTree.svg" height="60em"/>](https://github.com/molbiodiv/bcgTree)
-[<img src="logos/permGWAS_logo.png" height="60em"/>](https://github.com/grimmlab/permGWAS)
+[<img src="logos/permGWAS_logo.png" height="50em"/>](https://github.com/grimmlab/permGWAS)
 [<img src="logos/chloroextractor.png" height="60em"/>](https://github.com/chloroExtractorTeam/chloroExtractor)
 [<img src="logos/biojs-io-biom.png" height="60em"/>](https://github.com/molbiodiv/biojs-io-biom)
 [<img src="logos/its2.png" height="40em"/>](http://its2.bioapps.biozentrum.uni-wuerzburg.de/)
