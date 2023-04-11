@@ -99,6 +99,13 @@
 - **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.21105%2Fjoss.00464-blue.svg)](https://doi.org/10.21105/joss.00464)
 - **Benchmark**: [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13059--020--02153--6-blue.svg)](https://doi.org/10.1186/s13059-020-02153-6)
 
+### permGWAS - *Permutation-based Genome-wide Association Studies*
+
+[<img src="logos/permGWAS_logo.png" height="100px"/>](https://github.com/grimmlab/permGWAS)
+
+- **Repo**: https://github.com/grimmlab/permGWAS
+- **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fbioinformatics%2Fbtac455-blue.svg)](https://doi.org/10.1093/bioinformatics/btac455)
+
 ### biojs-io-biom - *Biological Observation Matrix Format in JavaScript*
 
 [<img src="logos/biojs-io-biom.png" height="100px"/>](https://github.com/molbiodiv/biojs-io-biom)
