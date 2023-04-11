@@ -39,13 +39,6 @@
 - **de-RSE**: https://de-rse.org
 - **Local Chapter**: https://de-rse.org/chapter/wue
 
-### ESF ZDEX
-
-[<img src="logos/zdex.png" height="80px"/>](https://www.uni-wuerzburg.de/sft/esf-zdex)
-
-- **Website**: https://www.uni-wuerzburg.de/sft/esf-zdex
-- **Our Network**: https://www.uni-wuerzburg.de/sft/esf-zdex/netzwerk-bildanalyse-visualisierung-und-modellierung-komplexer-systeme/
-
 ## Data Analytics Tools
 
 ### misas - *Model Interpretation through Sensitivity Analysis for Segmentation*
