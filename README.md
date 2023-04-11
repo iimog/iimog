@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 [<img src="logos/chloroextractor.png" height="60em"/>](https://github.com/chloroExtractorTeam/chloroExtractor)
 [<img src="logos/biojs-io-biom.png" height="60em"/>](https://github.com/molbiodiv/biojs-io-biom)
 [<img src="logos/its2.png" height="40em"/>](http://its2.bioapps.biozentrum.uni-wuerzburg.de/)
+[<img src="logos/pro-tycheposons.png" height="60em"/>](https://github.com/thackl/pro-tycheposons)
 [<img src="logos/cmr-seg-tl.png" height="60em"/>](https://github.com/chfc-cmi/cmr-seg-tl)
 [<img src="logos/pollen.jpg" height="60em"/>](https://github.com/molbiodiv/meta-barcoding-dual-indexing)
 [<img src="logos/dionaea.png" height="60em"/>](https://tbro.carnivorom.com)
