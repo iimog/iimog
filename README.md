@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### Projects and Activities
 [<img src="logos/cctb.png" height="60em"/>](https://www.biozentrum.uni-wuerzburg.de/cctb/people/ankenbrand-markus-dr/)
+[<img src="logos/biomeds.png" height="60em"/>](https://github.com/BioMeDS)
 [<img src="logos/hackyhour.svg" height="60em"/>](https://hackyhour.github.io/Wuerzburg)
 [<img src="logos/dccw.png" height="60em"/>](https://dccw.de)
 [<img src="logos/wuerse.svg" height="40em"/>](https://software-carpentry.org)
