@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m Markus, a Bioinformatician at the [Center for Computational and Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/) at the [University of Würzburg](https://www.uni-wuerzburg.de).
+I’m Markus, group leader of the [BioMedical Data Science group](https://www.biozentrum.uni-wuerzburg.de/cctb/research/biomedical-data-science/) at the [Center for Computational and Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/) at the [University of Würzburg](https://www.uni-wuerzburg.de).
 
-My research interests are the development and application of algorithms, tools and workflows to generate knowledge from biomedical data. Currently, my focus is on the possibilities and limitations of machine learning and artificial inteligence in biomedical research. Additionally, I engage in knowledge transfer with local businesses as part of the [ESF-ZDEX Project](https://www.uni-wuerzburg.de/sft/esf-zdex/).
+My research interests are developing and applying algorithms, tools, and workflows to generate knowledge from biomedical data. Currently, I focus on the possibilities and limitations of machine learning and artificial intelligence in biomedical research. Additionally, I engage in knowledge transfer with local businesses as part of the [KIdT Project](https://www.informatik.uni-wuerzburg.de/forum-kidt).
 
 - 💻 Projects and Activities: [Overview](https://github.com/iimog/iimog/blob/main/Projects.md)
 - 🧑‍🔬 Scientific Papers: [Google Scholar](https://scholar.google.de/citations?user=Qroex8UAAAAJ)
