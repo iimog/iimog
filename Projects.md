@@ -49,6 +49,13 @@
 - **Docs**: https://chfc-cmi.github.io/misas/`
 - **Paper**: [![DOI](https://img.shields.io/badge/DOI-10.1186/s12880--021--00551--1-blue.svg)](https://doi.org/10.1186/s12880-021-00551-1)
 
+### gggenomes - *A ggplot2 Extension for Plotting Genomic Information*
+
+[<img src="logos/gggenomes.svg" height="100px"/>](https://thackl.github.io/gggenomes)
+
+- **Repo**: https://github.com/thackl/gggenomes
+- **Docs**: https://thackl.github.io/gggenomes/
+
 ### TBro - *Transcriptome Browser*
 
 [<img src="logos/tbro.svg" height="100px"/>](https://github.com/TBroTeam/TBro)
@@ -179,13 +186,6 @@
 - **Repo**: https://github.com/iimog/x-party-game
 
 ## Minor Contributions
-
-### gggenomes - *A ggplot2 Extension for Plotting Genomic Information*
-
-[<img src="logos/gggenomes.svg" height="100px"/>](https://thackl.github.io/gggenomes)
-
-- **Repo**: https://github.com/thackl/gggenomes
-- **Docs**: https://thackl.github.io/gggenomes/
 
 ### permGWAS - *Permutation-based Genome-wide Association Studies*
 
